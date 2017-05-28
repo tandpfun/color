@@ -33,3 +33,6 @@ def typeunderline():
 def clear():
 	"""Clears all text modifiers"""
 	print "\033[0mText types and colors now cleared"
+def end():
+	"""Ends Your Session, Goodbye. You will not loose your color codes"
+	print "Press Ctrl - D. You will not loose your color codes!"
