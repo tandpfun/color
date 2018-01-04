@@ -1,7 +1,6 @@
-def welcome():
-	"""Welcome message for Color Codes!"""
-	print ('\033[92m* Welcome to: \033[94mColor Codes! ')
-	print ('\033[92m* More coming soon!\033[0m *')
+print ('\033[92m* Welcome to: \033[94mColor Codes!')
+print ('\033[92m* More coming soon!\033[0m')
+
 def setred():
     """Sets your text color to Red"""
     print ('\033[91mText Color Now Red"')
